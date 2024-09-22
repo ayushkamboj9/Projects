@@ -64,6 +64,8 @@ The **ava 2D Side Scrolling Dinosaur Game** is a simple yet engaging game develo
  javac DinosaurGame.java
  java DinosaurGame
  ```
+---
+
 ## Project 2
 
 ### Introduction
